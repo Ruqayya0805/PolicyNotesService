@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "PolicyNotesServiceApi.Controllers.PolicyNotesController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPolicyNotesEndpoints\u003Eb__0_0",
+    "RelativePath": "notes",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PolicyNotesServiceApi.Models.PolicyNoteCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CreateNote"
+  },
+  {
+    "ContainingType": "PolicyNotesServiceApi.Controllers.PolicyNotesController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPolicyNotesEndpoints\u003Eb__0_1",
+    "RelativePath": "notes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAllNotes"
+  },
+  {
+    "ContainingType": "PolicyNotesServiceApi.Controllers.PolicyNotesController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPolicyNotesEndpoints\u003Eb__0_2",
+    "RelativePath": "notes/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetNoteById"
+  }
+]

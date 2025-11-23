@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ruqay\\Downloads\\PolicyNotes.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\policynotesservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:policynotesservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\controllers\\policynotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:controllers\\policynotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\data\\policynotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:data\\policynotesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:models\\policynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\models\\policynotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:models\\policynotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\services\\policynotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:services\\policynotesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|c:\\users\\ruqay\\source\\repos\\policynotesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}|PolicyNotesService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC904453-05B0-4FBC-AEC1-15F05159D963}|..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj|c:\\users\\ruqay\\source\\repos\\policynotesserviceapi.integrationtests\\policynotesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC904453-05B0-4FBC-AEC1-15F05159D963}|..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj|c:\\users\\ruqay\\source\\repos\\policynotesserviceapi.integrationtests\\policynotescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC904453-05B0-4FBC-AEC1-15F05159D963}|..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj|c:\\users\\ruqay\\source\\repos\\policynotesserviceapi.integrationtests\\policynotesserviceapi.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolicyNotes.gitignore",
+              "DocumentMoniker": "C:\\Users\\ruqay\\Downloads\\PolicyNotes.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\PolicyNotes.gitignore",
+              "ToolTip": "C:\\Users\\ruqay\\Downloads\\PolicyNotes.gitignore",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\PolicyNotes.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-23T20:41:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:51:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolicyNotesService.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Services\\PolicyNotesService.cs",
+              "RelativeDocumentMoniker": "Services\\PolicyNotesService.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Services\\PolicyNotesService.cs",
+              "RelativeToolTip": "Services\\PolicyNotesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:51:00.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolicyNoteCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Models\\PolicyNoteCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyNoteCreateDto.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Models\\PolicyNoteCreateDto.cs",
+              "RelativeToolTip": "Models\\PolicyNoteCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:49:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicyNote.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyNote.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Models\\PolicyNote.cs",
+              "RelativeToolTip": "Models\\PolicyNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:48:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyNotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Data\\PolicyNotesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\PolicyNotesDbContext.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Data\\PolicyNotesDbContext.cs",
+              "RelativeToolTip": "Data\\PolicyNotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:50:23.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyNotesController.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Controllers\\PolicyNotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PolicyNotesController.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\Controllers\\PolicyNotesController.cs",
+              "RelativeToolTip": "Controllers\\PolicyNotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:51:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyNotesService",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\PolicyNotesService.csproj",
+              "RelativeDocumentMoniker": "PolicyNotesService.csproj",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesService\\PolicyNotesService.csproj",
+              "RelativeToolTip": "PolicyNotesService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T20:09:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyNotesServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceTests.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceTests.cs",
+              "RelativeToolTip": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:55:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PolicyNotesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesControllerTests.cs",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesControllerTests.cs",
+              "RelativeToolTip": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesControllerTests.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:54:40.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolicyNotesServiceApi.IntegrationTests",
+              "DocumentMoniker": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\ruqay\\source\\repos\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj",
+              "RelativeToolTip": "..\\PolicyNotesServiceApi.IntegrationTests\\PolicyNotesServiceApi.IntegrationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T19:54:11.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
