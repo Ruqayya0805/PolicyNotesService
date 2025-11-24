@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PolicyNotesServiceApi.Models;
+using PolicyNotesService.Models;
 
-namespace PolicyNotesServiceApi.Data;
+namespace PolicyNotesService.Data;
 
 public class PolicyNotesDbContext : DbContext
 {

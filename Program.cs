@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using PolicyNotesServiceApi.Controllers;
-using PolicyNotesServiceApi.Data;
-using PolicyNotesServiceApi.Services;
+using PolicyNotesService.Controllers;
+using PolicyNotesService.Data;
+using PolicyNotesService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<PolicyNotesDbContext>(options =>
     options.UseInMemoryDatabase("PolicyNotesDb"));
 
-builder.Services.AddScoped<IPolicyNotesService, PolicyNotesService>();
+builder.Services.AddScoped<IPolicyNotesService, PolicyNotesService.Services.PolicyNotesService>();
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

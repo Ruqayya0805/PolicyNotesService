@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PolicyNotesServiceApi.Models;
-using PolicyNotesServiceApi.Services;
+using PolicyNotesService.Models;
+using PolicyNotesService.Services;
 
-namespace PolicyNotesServiceApi.Controllers;
+namespace PolicyNotesService.Controllers;
 
 public static class PolicyNotesController
 {

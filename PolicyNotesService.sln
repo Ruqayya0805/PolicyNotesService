@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyNotesService", "PolicyNotesService.csproj", "{5EAFD1C7-FD3B-41B7-92A0-725C1CF92F8A}"
 EndProject
@@ -12,6 +12,18 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Downloads\PolicyNotes.gitignore = ..\..\..\Downloads\PolicyNotes.gitignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Output_Screenshots", "Output_Screenshots", "{369CB01D-A1A7-72D2-AABC-3F0945D148A2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure1.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure1.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\GetById.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\GetById.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Post.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Post.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Getall_output.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Getall_output.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Api_runner_output.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Api_runner_output.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure2.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure2.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure3.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\Structure3.jpeg
+		..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\TestExplorer.jpeg = ..\..\..\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\145BC92E09E8E03C7A3CCF837D22FD3829571DE7\transfers\2025-48\TestExplorer.jpeg
 	EndProjectSection
 EndProject
 Global

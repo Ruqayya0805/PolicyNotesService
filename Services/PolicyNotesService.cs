@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PolicyNotesServiceApi.Data;
-using PolicyNotesServiceApi.Models;
+using PolicyNotesService.Data;
+using PolicyNotesService.Models;
 
-namespace PolicyNotesServiceApi.Services;
+namespace PolicyNotesService.Services;
 
 public interface IPolicyNotesService
 {

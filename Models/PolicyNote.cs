@@ -1,4 +1,4 @@
-﻿namespace PolicyNotesServiceApi.Models;
+﻿namespace PolicyNotesService.Models;
 
 public class PolicyNote
 {
